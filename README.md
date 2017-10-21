@@ -1,4 +1,4 @@
-### Binary Search
+### Binary Search Lab Requirements
 
 Firstly you are to create three functions, as prototypes to the Array class to return the following:
 
